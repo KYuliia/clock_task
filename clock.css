@@ -1,0 +1,18 @@
+body {
+     background-image: url(robin-benad-268-unsplash.jpg);
+     background-repeat: no-repeat;
+     width: 100%;
+ }
+
+#clock {
+    font-family: Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #D02090;
+    margin-left: 300px;
+    margin-top: 350px;
+}
+
+.stopClock {
+    color: #9370DB;
+}
